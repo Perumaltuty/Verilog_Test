@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-module d_flip_flop(clk, d, q);
+module d_ff_behav(clk, d, q);
   input clk, d;
   output q;
   reg q;
