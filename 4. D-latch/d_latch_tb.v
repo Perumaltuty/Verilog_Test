@@ -1,4 +1,4 @@
-module d_latch_ff_tb;
+module d_latchs_tb;
   reg en, d;
   wire q;
   d_latch_with_enable DL(
